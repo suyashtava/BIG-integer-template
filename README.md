@@ -1,3 +1,3 @@
 # BIG-integer-template
 
-BIG INTEGER TEMPLATE for Copetetive programming.
+BIG INTEGER TEMPLATE for Competetive programming.
